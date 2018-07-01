@@ -1,0 +1,32 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+}
+
+.hero {
+  background-image: url("../images/clearerpij.jpg");
+  margin: auto;
+  height: 700px;
+  width: 950px;
+
+}
+
+.hero h1 {
+  font-size: 70px;
+  opacity: 0.20;
+  font-weight: bold;
+  color: white;
+  padding: 400px 70px;
+}
+
+
+.projects a {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+#id {
+  color: red;
+}

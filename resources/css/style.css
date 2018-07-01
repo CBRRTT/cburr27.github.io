@@ -1,23 +1,17 @@
 body {
 font-family: Tahoma, sans-serif;
-background-image: url("../images/pi.jpg");
-text-align: center;
+background-image: url("../images/clearerpij.jpg");
 }
 
 h1 {
   font-size: 100px;
   opacity: 0.30;
   font-weight: bold;
-  text-align: justify;
   color: white;
 }
 
-.projects h6 {
-  font-size: 15px;
-  color: white;
-  font-weight: normal;
-}
 .projects a {
   font-size: 30px;
   color: white;
+  text-decoration: none;
 }
