@@ -1,22 +1,23 @@
-html {
+body {
 font-family: Tahoma, sans-serif;
 background-image: url("../images/pi.jpg");
+text-align: center;
 }
 
-h1{
-  color: white;
+h1 {
+  font-size: 100px;
+  opacity: 0.30;
   font-weight: bold;
-  font-size: 50px;
-  text-align: center;
+  text-align: justify;
+  color: white;
 }
 
-h6{
+.projects h6 {
+  font-size: 15px;
   color: white;
-  font-size: 20px;
+  font-weight: normal;
 }
-
-body{
+.projects a {
+  font-size: 30px;
   color: white;
-  font-weight: bold;
-  font-size: 20px;
 }
